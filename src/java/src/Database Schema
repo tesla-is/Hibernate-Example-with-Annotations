@@ -1,0 +1,6 @@
+CREATE TABLE  "DOC" 
+   (	"ID" NUMBER(10,0), 
+	"NAME" VARCHAR2(30), 
+	"ADDRESS" VARCHAR2(30)
+   )
+/
